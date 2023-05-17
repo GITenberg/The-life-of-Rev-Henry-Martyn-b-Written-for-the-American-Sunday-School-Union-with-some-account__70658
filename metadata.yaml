@@ -1,0 +1,41 @@
+_repo: The-life-of-Rev-Henry-Martyn-b-Written-for-the-American-Sunday-School-Union-with-some-account__70658
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hall, John
+    birthdate: 1806
+    deathdate: 1894
+    gutenberg_agent_id: '55851'
+    url: http://www.gutenberg.org/2009/agents/55851
+  - agent_name: Sargent, John
+    alias: Sargent, J. (John)
+    birthdate: 1780
+    deathdate: 1833
+    gutenberg_agent_id: '55852'
+    url: http://www.gutenberg.org/2009/agents/55852
+    wikipedia: https://en.wikipedia.org/wiki/John_Sargent_(priest)
+description: '"Principally compiled from the tenth English edition of the Memoirs
+  of Mr. Martyn, by the Rev. John Sargent."--Preface'
+gutenberg_issued: '2023-04-28'
+identifiers:
+  gutenberg: '70658'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t2x34qf6p&view=1up&seq=7
+pgterms:marc905: 20201012083256hall
+pgterms:marc906: '1831'
+pgterms:marc907: us
+production_note: Bob Taylor, Brian Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bAmerican Sunday School Union, $c1831.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Martyn, Henry, 1781-1812'
+- !lcsh 'Abdool Messeeh, 1771 or 1772-1827'
+- !lcc 'BV'
+- GITenberg
+title: 'The life of Rev. Henry Martyn : $b Written for the American Sunday School
+  Union, with some account of Abdool Messeeh, a Hindoo convert'
+url: http://www.gutenberg.org/ebooks/70658
