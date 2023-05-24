@@ -1,5 +1,8 @@
 _repo: The-life-of-Rev-Henry-Martyn-b-Written-for-the-American-Sunday-School-Union-with-some-account__70658
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70658-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hall, John
@@ -16,6 +19,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/John_Sargent_(priest)
 description: '"Principally compiled from the tenth English edition of the Memoirs
   of Mr. Martyn, by the Rev. John Sargent."--Preface'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70658#The-life-of-Rev-Henry-Martyn-b-Written-for-the-American-Sunday-School-Union-with-some-account_
 gutenberg_issued: '2023-04-28'
 identifiers:
   gutenberg: '70658'
